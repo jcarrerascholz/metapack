@@ -1,0 +1,15 @@
+com/metapack/stores/service/StoreService.class
+com/metapack/stores/service/JsoupHttpService.class
+com/metapack/stores/controller/StoreController.class
+com/metapack/stores/model/Store.class
+com/metapack/stores/helper/JsoupRepositoryHelper.class
+com/metapack/stores/repository/JsoupStoreRepository.class
+com/metapack/stores/repository/IRepository.class
+com/metapack/stores/helper/ServiceResponseStatus.class
+com/metapack/stores/service/IHttpService.class
+com/metapack/stores/request/JsoupResponse.class
+com/metapack/stores/Application.class
+com/metapack/stores/service/IService.class
+com/metapack/stores/config/WebConfig.class
+com/metapack/stores/request/BaseResponse.class
+com/metapack/stores/request/StoreResponse.class

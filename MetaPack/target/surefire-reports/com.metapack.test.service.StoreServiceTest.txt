@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.metapack.test.service.StoreServiceTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.422 sec - in com.metapack.test.service.StoreServiceTest

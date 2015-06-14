@@ -1,0 +1,15 @@
+/home/juan/Desktop/MetaPack/src/main/java/com/metapack/stores/service/IService.java
+/home/juan/Desktop/MetaPack/src/main/java/com/metapack/stores/request/JsoupResponse.java
+/home/juan/Desktop/MetaPack/src/main/java/com/metapack/stores/repository/IRepository.java
+/home/juan/Desktop/MetaPack/src/main/java/com/metapack/stores/request/BaseResponse.java
+/home/juan/Desktop/MetaPack/src/main/java/com/metapack/stores/service/IHttpService.java
+/home/juan/Desktop/MetaPack/src/main/java/com/metapack/stores/config/WebConfig.java
+/home/juan/Desktop/MetaPack/src/main/java/com/metapack/stores/model/Store.java
+/home/juan/Desktop/MetaPack/src/main/java/com/metapack/stores/service/StoreService.java
+/home/juan/Desktop/MetaPack/src/main/java/com/metapack/stores/Application.java
+/home/juan/Desktop/MetaPack/src/main/java/com/metapack/stores/request/StoreResponse.java
+/home/juan/Desktop/MetaPack/src/main/java/com/metapack/stores/controller/StoreController.java
+/home/juan/Desktop/MetaPack/src/main/java/com/metapack/stores/repository/JsoupStoreRepository.java
+/home/juan/Desktop/MetaPack/src/main/java/com/metapack/stores/helper/ServiceResponseStatus.java
+/home/juan/Desktop/MetaPack/src/main/java/com/metapack/stores/helper/JsoupRepositoryHelper.java
+/home/juan/Desktop/MetaPack/src/main/java/com/metapack/stores/service/JsoupHttpService.java
